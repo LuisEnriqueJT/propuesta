@@ -1,0 +1,25 @@
+body{
+	background-color: #003a70;
+	color: white;
+}
+
+.encabezado{
+	background-color: #0A0505;
+	height: 100px;
+	color: white;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+span a:hover {
+	color: orange;
+}
+
+span{
+	text-align: center;
+	height: 40px;
+	background-color: #2469F4;
+}
